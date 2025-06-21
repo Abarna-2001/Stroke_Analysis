@@ -8,7 +8,8 @@ The project consists of four files:
 - *query_module.py*: Defines 12 queries to analyze the dataset (e.g., average age of smokers with stroke) and saves results to CSV.
 - *ui_module.py*: Creates a Tkinter GUI with a dropdown for selecting queries, a text area for results, and buttons for saving to CSV or exiting.
 - *main.ipynb*: Runs the GUI by calling ui_module.run_user_interface.
-The dataset (data.csv) contains patient data with 22 features, like Age, Hypertension, and Stroke Occurrence. The GUI makes it easy for clinicians to run queries and save results.
+  
+- The dataset (data.csv) contains patient data with 22 features, like Age, Hypertension, and Stroke Occurrence. The GUI makes it easy for clinicians to run queries and save results.
 
 ## Setup Instructions
 
