@@ -1,4 +1,4 @@
-# STROKE DATA ANALYTICS
+# STROKE DATA Prediction [Without Using High Level libraries]
 This notebook is the main entry point for the Stroke Data Analytics project. It launches a user-friendly Tkinter GUI that lets clinicians explore a stroke dataset through 12 predefined queries.
 
 ## 1. Overview
