@@ -1,6 +1,20 @@
 # STROKE DATA Prediction [Without Using High Level libraries]
 This notebook is the main entry point for the Stroke Data Analytics project. It launches a user-friendly Tkinter GUI that lets clinicians explore a stroke dataset through 12 predefined queries.
 
+- 1. Compute the average, modal age, and median age of smokers with hypertension and stroke.
+- 2. Calculate age and glucose statistics for patients with heart disease and stroke.
+- 3. Compute age statistics by gender for patients with hypertension.
+- 4. Compare age statistics for smokers with and without stroke.
+- 5. Compare age statistics for urban versus rural stroke patients.
+- 6. Analyze dietary habits for patients with and without stroke.
+- 7. List patients with hypertension and stroke.
+- 8. List patients with hypertension, split by stroke status.
+- 9. List patients with heart disease and stroke.
+- 10.Compute descriptive statistics (mean, median, mode) for a user-specified
+feature.
+- 11.Calculate the average sleep hours for patients with and without stroke.
+- 12. Save the query results to a CSV in a table format.
+
 ## 1. Overview
 The project consists of four files:
 
